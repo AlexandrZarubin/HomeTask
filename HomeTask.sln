@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HomeTask", "HomeTask\HomeTa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Triada", "Triada\Triada.vcxproj", "{7425D060-B603-4005-AC01-2807735AB43B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RegionCode", "RegionCode\RegionCode.vcxproj", "{5B70ED7F-373D-4CDB-9454-69431A436DA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{7425D060-B603-4005-AC01-2807735AB43B}.Release|x64.Build.0 = Release|x64
 		{7425D060-B603-4005-AC01-2807735AB43B}.Release|x86.ActiveCfg = Release|Win32
 		{7425D060-B603-4005-AC01-2807735AB43B}.Release|x86.Build.0 = Release|Win32
+		{5B70ED7F-373D-4CDB-9454-69431A436DA5}.Debug|x64.ActiveCfg = Debug|x64
+		{5B70ED7F-373D-4CDB-9454-69431A436DA5}.Debug|x64.Build.0 = Debug|x64
+		{5B70ED7F-373D-4CDB-9454-69431A436DA5}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B70ED7F-373D-4CDB-9454-69431A436DA5}.Debug|x86.Build.0 = Debug|Win32
+		{5B70ED7F-373D-4CDB-9454-69431A436DA5}.Release|x64.ActiveCfg = Release|x64
+		{5B70ED7F-373D-4CDB-9454-69431A436DA5}.Release|x64.Build.0 = Release|x64
+		{5B70ED7F-373D-4CDB-9454-69431A436DA5}.Release|x86.ActiveCfg = Release|Win32
+		{5B70ED7F-373D-4CDB-9454-69431A436DA5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
