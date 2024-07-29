@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5b70ed7f-373d-4cdb-9454-69431a436da5}</ProjectGuid>
-    <RootNamespace>RegionCode</RootNamespace>
+    <ProjectGuid>{c382de55-897a-4119-85a8-cf611832c9c2}</ProjectGuid>
+    <RootNamespace>My011Matrix</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>002_RegionCode</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

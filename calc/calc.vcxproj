@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{5b70ed7f-373d-4cdb-9454-69431a436da5}</ProjectGuid>
-    <RootNamespace>RegionCode</RootNamespace>
+    <ProjectGuid>{56a54c7f-94a5-454b-8612-64a9fa00e980}</ProjectGuid>
+    <RootNamespace>calc</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>002_RegionCode</ProjectName>
+    <ProjectName>004_calc</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

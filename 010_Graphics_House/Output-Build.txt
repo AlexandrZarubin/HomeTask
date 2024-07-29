@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: 012_Visible, Configuration: Debug x64 ------
+1>main.cpp
+1>012_Visible.vcxproj -> C:\YandexDisk\WorksSrudyV2\Git_project\HomeTask\x64\Debug\012_Visible.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 9:34 AM and took 00,826 seconds ==========
